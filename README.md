@@ -4,7 +4,7 @@ A secure REST API built with **Spring Boot** for personal budget and expense man
 
 ---
 
-## 🎯 Problem It Solves
+## 🎯 Problem It Solves 
 
 Managing personal finances is hard without a system. Most people lose track of where their money goes. BudgetTracker solves this by providing:
 
