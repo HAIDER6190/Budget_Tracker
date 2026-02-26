@@ -241,11 +241,9 @@ Authorization: Bearer <token>
 - [ ] **Unit & Integration Tests** — Full test coverage
 
 ---
-
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
+This project is for personal/educational use only.
 ---
 
 ## 🤝 Contributing
